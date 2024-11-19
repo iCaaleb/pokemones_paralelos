@@ -1,5 +1,19 @@
 # Actividad de pokemones paralelos
 
+# Integrantes
+
+### Edwin Caleb Trejo Aguiñaga
+
+### José Sebastián Colin Becerra
+
+### Sebastían Elí Román Álvarez
+
+### Brandon Henrique Hernández Martínez
+
+### Gerardo Arias Magaña
+
+### Alexandre Álmaraz Mayen
+
 ## Descripción
 
 Programa en python para obtener los datos de pokemones en paralelo utilizando la libreria threading y request
